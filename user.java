@@ -1,1 +1,3 @@
-class user{}
+class user{
+	String name="AB"
+}
